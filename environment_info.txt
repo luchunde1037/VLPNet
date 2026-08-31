@@ -1,0 +1,7 @@
+Python: 3.8.0
+Platform: Windows-10-10.0.19041-SP0
+PyTorch: 2.3.1
+PyTorch CUDA build: 11.8
+CUDA available: True
+CUDA device count: 1
+CUDA device 0: NVIDIA GeForce RTX 4060 Ti
